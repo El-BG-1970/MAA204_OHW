@@ -134,13 +134,13 @@ div.cell{
 	font-weight: bold;
 	font-style: normal;
     }
-    .Answers {    
+    .Res {    
 	background-color: #DDA0DD;
 	border-left: 5px solid #9932CC;
 	padding: 0.5em;
     }
-    .Answers:before {
-	content: "Answers.";
+    .Res:before {
+	content: "Results.";
 	color:#682145;
 	font-weight: bold;
 	font-style: normal;
@@ -178,13 +178,13 @@ div.cell{
        font-weight: bold;
        font-style: normal;
     }
-    .Rmk {    
+    .Obj {    
 	background-color: #dbf1fc;
 	border-left: 5px solid #385487;
 	padding: 0.5em;
     }
-    .Rmk:before {
-	content: "Remark.";
+    .Obj:before {
+	content: "Objective.";
 	color:#385487;
 	font-weight: bold;
 	font-style: normal;
