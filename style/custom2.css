@@ -156,13 +156,13 @@ div.cell{
        font-weight: bold;
        font-style: normal;
     }
-   .Thm {    
+   .Ide {    
 	background-color:#f9ecd1;
 	border-left: 5px solid #ba7021;
 	padding: 0.5em;
     }
-   .Thm:before {
-       content: "Theorem.";
+   .Ide:before {
+       content: "Idea.";
        color:#ba7021;
        font-weight: bold;
        font-style: normal;
